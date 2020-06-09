@@ -24,7 +24,6 @@ struct EmojiArtDocumentView: View {
             .padding(.horizontal)
             Rectangle().foregroundColor(.yellow)
                 .edgesIgnoringSafeArea([.horizontal, .bottom])
-            
         }
     }
     private let defaultEmojiSize: CGFloat = 40
