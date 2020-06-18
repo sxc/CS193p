@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  EmojiArt
 //
-//  Created by Xiaochun Shen on 2020/6/9.
+//  Created by Xiaochun Shen on 2020/6/18.
 //  Copyright © 2020 SXC. All rights reserved.
 //
 
